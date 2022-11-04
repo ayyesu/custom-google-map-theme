@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
 #map{
-    height: 100%;
+    height: 60%;
 }
 
 html, body{
@@ -12,4 +12,5 @@ html, body{
 
 .header center h2 {
     font-family: 'Caveat', cursive;
+    font-size: 40px;
 }
