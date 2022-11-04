@@ -8,7 +8,7 @@ Built with HTML, CSS, JS And Google Maps API
 
 ## Screenshots and demo
 Screenshots of project 
-![Not yet available](#)
+(![Screenshot from 2022-11-04 23-26-43](https://user-images.githubusercontent.com/102270370/200089091-c4cb7088-8e50-4755-b8e3-5c226b9fc815.png))
 
 and
 link to [Not available](#)
